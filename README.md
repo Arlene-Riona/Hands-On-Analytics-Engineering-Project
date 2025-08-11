@@ -17,7 +17,7 @@ This mirrors real-world analytics engineering tasks, where raw data is prepared 
 ---
 
 ## Tools & Technologies
-- **Python** (Pandas, SQLAlchemy)
+- **Python** (Pandas)
 - **SQL** (SQLite)
 - **GitHub Codespaces** (cloud-based development)
 - **Data Visualization**: *Tableau*
